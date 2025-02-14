@@ -16,7 +16,7 @@ Note: The Maven repository address needs to be configured in both 'buildscript' 
 
 (2) If you are using Gradle for integration, add the following code to your project's build.gradle:
 ```kotlin
-implementation 'dev.deeplink.sdk:attribution:2.1.1'
+implementation 'dev.deeplink.sdk:attribution:2.1.5'
 ```
 
 Step 3: Configure AndroidManifest
