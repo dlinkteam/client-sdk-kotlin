@@ -2,7 +2,7 @@
 
 Step 1: Get the Appid
 
-Register an account at https://console.deepLink.cloud/. After creating an app on the platform, get the corresponding Appid of the app.
+Register an account at https://console.deeplink.cloud/. After creating an app on the platform, get the corresponding Appid of the app.
 
 Step 2: Get the SDK
 
